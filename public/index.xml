@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Sophia Grace</title>
+      <link>https://tfw.computer</link>
+      <description>Last 10 notes on Sophia Grace</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>/now</title>
+    <link>https://tfw.computer/now</link>
+    <guid>https://tfw.computer/now</guid>
+    <description> /now Movement See this post by Derek Sivers for more details on this idea. Software instrument queue db please-plugins Podcasts I’m currently working through the archives of the following: QAnon Anonymous Kill James Bond Good Muslim, Bad Muslim ALAB: All Lawyers are Bastards .</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>Instrument</title>
+    <link>https://tfw.computer/Software/instrument/</link>
+    <guid>https://tfw.computer/Software/instrument/</guid>
+    <description>A unique observability library purpose-built for my projects’ use-cases.</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>Welcome, Friend</title>
+    <link>https://tfw.computer/</link>
+    <guid>https://tfw.computer/</guid>
+    <description>Hello! I’m Sophia, a transfemme systems engineer living in the Bay Area, CA. This site collects my digital garden.</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>Logbook</title>
+    <link>https://tfw.computer/Logbook/</link>
+    <guid>https://tfw.computer/Logbook/</guid>
+    <description>I try to keep a detailed log of project decisions that I make, tasks that I complete, and links that I find. It gives a sense of accomplishment when I look back and see so much done, and keeps me in dialogue with myself.</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>Fit to Purpose</title>
+    <link>https://tfw.computer/fit-to-purpose</link>
+    <guid>https://tfw.computer/fit-to-purpose</guid>
+    <description></description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>RPC</title>
+    <link>https://tfw.computer/Fragments/RPC</link>
+    <guid>https://tfw.computer/Fragments/RPC</guid>
+    <description>Notes from the quest to build an elegant RPC framework.</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>2024-05-31</title>
+    <link>https://tfw.computer/Logbook/2024-05-31</link>
+    <guid>https://tfw.computer/Logbook/2024-05-31</guid>
+    <description>lib/data Figure out why creating new domains/endpoints isn’t working. Add lib/instrument tracing. lib/instrument Decide on support for pre-aggregated metrics.</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item><item>
+    <title>Made with 💛</title>
+    <link>https://tfw.computer/made-with-love</link>
+    <guid>https://tfw.computer/made-with-love</guid>
+    <description> Epistemic Status High confidence about my own experience, mid-high confidence that it generalizes to others’. ”The loop” A system’s ultimate agent Building for joy and humility References.</description>
+    <pubDate>Fri, 31 May 2024 17:45:54 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
