@@ -1,6 +1,5 @@
 ---
 title: Good Works, Freely Given
-date: 05-31-2024
 draft: false
 ---
 

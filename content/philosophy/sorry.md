@@ -1,6 +1,5 @@
 ---
 title: "The Hardest Word in the English Language: Sorry"
-date: 2024-05-31
 draft: false
 ---
 

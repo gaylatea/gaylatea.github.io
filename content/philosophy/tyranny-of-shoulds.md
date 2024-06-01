@@ -1,6 +1,5 @@
 ---
 title: "\"Tyranny of the Shoulds\", or the Art of Self-Destruction"
-date: 2024-05-31
 draft: false
 ---
 

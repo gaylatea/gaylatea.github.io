@@ -1,7 +1,6 @@
 ---
 title: Subjectivity and Naturalization
 draft: false
-date: 2024-05-31
 ---
 
 Experience has shown me that human beings have a tendency to "naturalize" their subjective judgements of the world- that is, they present those judgements as immutable (and axiomatically correct) truths of the world around them. This essay lays out why I think people do this, and how to avoid falling into this trap.
