@@ -15,6 +15,9 @@ Scale is the enemy of the simple. Standing on the shoulders of giants leaves you
 
 # Systemic knowledge
 
+> *Software carries a culture with it.*
+> -Sam
+
 # High-wire abstraction
 
 # *Kaizen*
