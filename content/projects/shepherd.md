@@ -1,11 +1,11 @@
 ---
-title: Shepherd
+title: Instrument
 draft: false
 ---
 
-Observability tooling tailored to [[systems/fit-to-purpose]] applications.
+Instrumentation tailored to [[systems/fit-to-purpose]] applications.
 
-[Github](https://github.com/gaylatea/shepherd)
+[Github](https://github.com/gaylatea/instrument)
 
 # Abstract
 
@@ -13,16 +13,12 @@ Observability tooling tailored to [[systems/fit-to-purpose]] applications.
 
 # "Pillars of observability"
 
+## Events
+
 ## Logs
 
 ## Traces
 
 ## Metrics
 
-# Acting on signals
-
-## Detectors
-
-## Actions
-
-## Post hoc, ergo propter hoc
+# Sinks

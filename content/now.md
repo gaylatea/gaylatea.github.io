@@ -12,7 +12,7 @@ At time of writing I work at [Hurricane Electric](https://he.net/) on network se
 
 ## Software
 
-* [[projects/shepherd]]
+* [[projects/instrument]]
 * [[projects/archon]]
 * [[projects/ssm]]
 * [[projects/ensure]]
