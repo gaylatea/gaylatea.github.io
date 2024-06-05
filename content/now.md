@@ -5,14 +5,18 @@ draft: false
 
 > [!info] /now Movement
 >
-> *See [this post by Derek Sivers](https://sive.rs/nowff) for more details on this idea.*
+> *See [this post by Derek Sivers](https://sive.rs/nowff) for more.*
 
 ## Employment
-At time of writing I work at [Hurricane Electric](https://he.net/) on network security tools. In mid-June, I will be moving to [Callisto](https://projectcallisto.org) to once again work on their sexual violence reporting system.
+At time of writing I work at [Hurricane Electric](https://he.net/) on network security tools. In mid-June, I will move to [Callisto](https://projectcallisto.org) to once again work on their sexual violence reporting system.
+
+## Reading
+* 🔞 [A Perverted Path to Victory](https://archiveofourown.org/works/47749939): An extremely horny isekai about toppling slave-owning fantasy kingdoms.
 
 ## Software
 
 * [[projects/instrument]]
+* [[projects/akhashic-record]]
 * [[projects/archon]]
 * [[projects/ssm]]
 * [[projects/ensure]]
