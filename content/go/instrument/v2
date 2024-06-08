@@ -1,6 +1,6 @@
 <html>
     <head>
-        <meta name="go-import" content="tfw.computer/go/instrument git https://github.com/gaylatea/instrument">
+        <meta name="go-import" content="tfw.computer/go/instrument/v2 git https://github.com/gaylatea/instrument">
         <meta http-equiv="refresh" content="0;URL='https://github.com/gaylatea/instrument'">
     </head>
     <body>
